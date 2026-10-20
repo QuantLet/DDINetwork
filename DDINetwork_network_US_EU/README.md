@@ -9,7 +9,7 @@ Name of Quantlet: DDINetwork_network_US_EU
 
 Published in: DDINetwork
 
-Description: Group the dynamics of connectedness measures in US and
+Description: Group the dynamics of connectedness measures in US and European banks for level, slope, curvature factor respectively.
 
 Keywords: 
 - factor analysis
