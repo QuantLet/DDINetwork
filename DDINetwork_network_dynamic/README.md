@@ -9,7 +9,7 @@ Name of Quantlet: DDINetwork_network_dynamic
 
 Published in: DDINetwork
 
-Description: Estimate the level, slope, and curvature factor based on
+Description: Estimate the level, slope, and curvature factor based on DNS model with one-year rolling window (260 observations), and then calculate the daynamic of network connectedness for each factor with variance decomposition.
 
 Keywords: 
 - factor analysis
