@@ -9,7 +9,7 @@ Name of Quantlet: DDINetwork_CDS_forecast
 
 Published in: DDINetwork
 
-Description: Forecast CDS spreads with network information in 2011-2013
+Description: Forecast CDS spreads with network information in 2011-2013 under DNS model, and calculate the difference of RMSE between DNS model with or without other bank information. Further, perform a DM test to compare the out-of-sample performance.
 
 Keywords: 
 - factor analysis
