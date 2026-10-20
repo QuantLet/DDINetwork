@@ -9,7 +9,7 @@ Name of Quantlet: DDINetwork_network_static
 
 Published in: DDINetwork
 
-Description: Estimate the level, slope, and curvature factor based on
+Description: Estimate the level, slope, and curvature factor based on DNS model with the whole data sample, and then calculate the network connectedness for each factor with variance decomposition.
 
 Keywords: 
 - factor analysis
